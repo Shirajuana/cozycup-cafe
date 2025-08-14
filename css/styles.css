@@ -6,12 +6,12 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
-    color: #4c3c32;
+    background-color: #2b1103de;
+    color: #e9e4e2;
 }
 
 header {
-    background-color: #fff;
+    background-color: #0B0201;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
@@ -34,13 +34,13 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #976f55ee;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #885a40;
 }
 
 .hero {
@@ -48,7 +48,7 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color: white;
+    color: rgb(155, 97, 10);
 }
 
 .hero h1 {
@@ -87,7 +87,7 @@ nav a:hover {
 .about {
     padding: 100px 0;
     text-align: center;
-    background-color: #ede4d6;
+    background-color: #885b4d;
 }
 
 .about h2 {
@@ -104,7 +104,7 @@ nav a:hover {
 .contact {
     padding: 100px 0;
     text-align: center;
-    background-color: #4c3c32;
+    background-color: #946f4a;
     color: white;
 }
 
@@ -119,7 +119,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #4c3c32;
+    background-color: #3a1709;
     color: white;
     text-align: center;
     padding: 20px 0;
