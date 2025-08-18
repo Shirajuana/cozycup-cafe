@@ -13,7 +13,7 @@ body {
 header {
     background-color: #0B0201;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 10px;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
 }
 
 .logo img {
-    max-width: 100px;
+    max-width: 190px;
 }
 
 nav ul {
@@ -33,6 +33,7 @@ nav ul {
 }
 
 nav a {
+    font-size: 20px;
     text-decoration: none;
     color: #976f55ee;
     font-weight: bold;
@@ -47,24 +48,25 @@ nav a:hover {
     font-family: 'EB Garamond', Elegant serif;
     font-size: 3rem;
     letter-spacing: 1px;
-    text-align: center;
+    text-align: left;
     padding: 150px 0;
-    background-image: url('coffee.webp');
-    background-size: cover;
-    color: rgb(252, 251, 249);
+    background-image: url('d.webp');
+    background-size: cover, 50% auto;
+    color: #000000;
 }
 
 .hero h1 {
-    font-size: 50px;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 80px;
     margin-bottom: 20px;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 .hero p {
-    font-family: 'Cormorant', serif;
+    font-family: "Segoe Print", cursive;
     font-weight: 500;
     letter-spacing: 0.5px;
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 50px;
 }
 
@@ -74,7 +76,7 @@ nav a:hover {
     font-family: 'UnifrakturMaguntia', cursive;
     padding: 10px 10px;
     background-color: #6b5409;
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     border-radius: 20px;
 }
@@ -94,16 +96,16 @@ nav a:hover {
 }
 
 .image-container {
-  display: flex;           /* Side-by-side layout */
-  justify-content: center; /* Center images horizontally (optional) */
-  align-items: center;     /* Align vertically (optional) */
-  width: 100%;            /* Full container width */
+  display: flex;           
+  justify-content: center; 
+  align-items: center;     
+  width: 100%;           
 }
 
 .image-container img {
-  width: 20%;             /* Each image takes half the space */
-  height: auto;           /* Maintain aspect ratio */
-  display: block;         /* Remove default inline spacing */
+  width: 20%;             
+  height: auto;           
+  display: block;         
 }
 
 .about {
