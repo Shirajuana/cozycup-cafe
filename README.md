@@ -27,8 +27,13 @@ Are you a certified weakling? Tired of being a pushover? Well, step right up to 
 ![](img/h.png)
 
 ## Brews Menu
+![](img/br.jpg)
+![](img/past.jpg)
+![](img/kap.jpg)
 
 ## Brews Contacts
+![](img/abt.jpg)
+![](img/cont.jpg)
 
 # Grasp The Mind Behind The BrewTalicious Cafe.ᐟ · ☕︎ྀི · ₊˚.🎧 ✩
 
