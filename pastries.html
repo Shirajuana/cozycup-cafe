@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pastries</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background: #4e342e;
+            color: #fff8e1;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        header {
+            text-align: center;
+            padding: 2rem 0 1rem 0;
+            font-size: 2.5rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+            color: #d7b899;
+            text-shadow: 0 2px 8px #3e2723;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 2rem;
+            padding: 2rem;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        .menu-item {
+            background-size: cover;
+            background-position: center;
+            border-radius: 1rem;
+            min-height: 220px;
+            display: flex;
+            align-items: flex-end;
+            box-shadow: 0 4px 24px rgba(62,39,35,0.4);
+            position: relative;
+            overflow: hidden;
+            border: 2px solid #a1887f;
+        }
+        .menu-label {
+            background: rgba(78,52,46,0.85);
+            color: #ffe0b2;
+            width: 100%;
+            padding: 1rem;
+            font-size: 1.2rem;
+            font-weight: 500;
+            border-bottom-left-radius: 1rem;
+            border-bottom-right-radius: 1rem;
+            text-align: center;
+            box-sizing: border-box;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <header>Pastries</header>
+    <div class="grid">
+        <div class="menu-item" style="background-image: url('img/croissant.png');">
+            <div class="menu-label">Croissant</div>
+        </div>
+        <div class="menu-item" style="background-image: url('img/scones.jpg');">
+            <div class="menu-label">Scones</div>
+        </div>
+        <div class="menu-item" style="background-image: url('img/cinnamon\ roll.jpg');">
+            <div class="menu-label">Cinnamon Roll</div>
+        </div>
+        <div class="menu-item" style="background-image: url('img/apple.jpg');">
+            <div class="menu-label">Apple Turnover</div>
+        </div>
+    </div>
+</body>
+</html>

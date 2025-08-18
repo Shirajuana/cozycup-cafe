@@ -19,6 +19,7 @@ Are you a certified weakling? Tired of being a pushover? Well, step right up to 
 * Speed Wifi
 * Merch
 
+<<<<<<< HEAD
 
 # WEBSITE
 
@@ -35,6 +36,8 @@ Are you a certified weakling? Tired of being a pushover? Well, step right up to 
 ![](img/abt.jpg)
 ![](img/cont.jpg)
 
+=======
+>>>>>>> 393fee925962a873f7ce603767f4ca9e547dfe2e
 # Grasp The Mind Behind The BrewTalicious Cafe.ᐟ · ☕︎ྀི · ₊˚.🎧 ✩
 
 [![](https://github.com/Shirajuana.png?size=420)](https://github.com/Shirajuana)
