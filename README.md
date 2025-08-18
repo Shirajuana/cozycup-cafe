@@ -35,17 +35,20 @@ Are you a certified weakling? Tired of being a pushover? Well, step right up to 
 [![](https://github.com/Shirajuana.png?size=420)](https://github.com/Shirajuana)
 ### Name: SHEILA MAE VELUYA  (Owner)
 ### Email: 202380038@psu.palawan.edu.ph
-[🔗  Github ](https://github.com/Shirajuana) | [📘 Facebook](https://facebook.com/shielamae.veluya)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Shirajuana)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/shielamae.veluya)
 
 [![](https://github.com/Erlybird21.png?size=10)](https://github.com/Erlybird21)
 ### Name: ERL JOSEPH MANGUBAT (Collaborator)
 ### Email: 202380004@psu.palawan.edu.ph
-[🔗  Github ](https://github.com/Erlybird21) | [📘 Facebook](https://facebook.com/erljoseph.mangubat)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Erlybird21)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/erljoseph.mangubat)
 
 [![](https://github.com/ygglue.png?size=10)](https://github.com/ygglue)
 ### Name: ELIYAHU LAGUMBAY (Collaborator)
 ### Email: 202380149@psu.palawan.edu.ph
-[🔗  Github ](https://github.com/ygglue) | [📘 Facebook](https://facebook.com/eliyahu.lagumbay)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ygglue)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/eliyahu.lagumbay)
 
 
 
