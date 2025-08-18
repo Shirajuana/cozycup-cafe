@@ -19,8 +19,6 @@ Are you a certified weakling? Tired of being a pushover? Well, step right up to 
 * Speed Wifi
 * Merch
 
-<<<<<<< HEAD
-
 # WEBSITE
 
 ## BrewTalicious
